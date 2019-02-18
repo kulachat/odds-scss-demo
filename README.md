@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
+## Initial For Developer
+
+- Install node & npm
+- Install Angular CLI: npm install -g @angular/cli
+- Go to project dir: [path]/odds-scss-demo then run 'npm install'
+- Run command 'npm run local' and open browser to http://localhost:14200
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
