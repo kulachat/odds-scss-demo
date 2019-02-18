@@ -31,3 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### prettier-schematic
 
 ng g @schuchard/prettier:add --printWidth=120 --tabWidth=2
+
+### jest-schematic
+
+ng g @briebug/jest-schematic:add
+npm uninstall jasmine-core jasmine-spec-reporter @types/jasmine @types/jasminewd2
